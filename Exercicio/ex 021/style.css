@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body{
+    background-color: gray;
+}
+h1.pele{
+    background-color: chocolate ;
+}
+h1{
+    background-color: black;
+    color: white;
+    border: 5px 5px snow;
+    padding:10px;
+    margin: auto;
+}
+p.principal{
+    background-color: white;
+}
