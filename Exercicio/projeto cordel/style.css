@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+:root{
+    font-family: 'Passion One', cursive;
+    font-family: 'Sriracha', cursive;
+    font-family: 'Work Sans', sans-serif;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: black;
+    color: white;
+    font-family: 'Passion One', cursive;
+    padding: 10px;
+    text-align: center;
+    font-size: 5em;
+    height: 150px;
+}
+nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav > a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+p{
+    font-family: 'Sriracha', cursive;
+}
+
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+footer > a{
+    color: white;
+}
